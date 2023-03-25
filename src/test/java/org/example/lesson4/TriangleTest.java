@@ -1,4 +1,4 @@
-package org.example;
+package org.example.lesson4;
 
 
 import org.example.lesson4.MyException;

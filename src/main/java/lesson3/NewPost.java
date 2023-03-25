@@ -47,8 +47,10 @@ public class NewPost {
         webElement7.sendKeys("test");
         WebElement webElement8 = driver.findElement(By.xpath("//*[@class=\"reset-0-2-89 root-0-2-91 rootSmall-0-2-94 textSemibold-0-2-101 backgroundBlue-0-2-104 textWithDropDownIcon-0-2-115\"]"));
         webElement8.click();
-        WebElement webElement9 = driver.findElement(By.xpath("//*[.=\"Опубликовать\"]"));
-        webElement9.click();
+//        WebElement webElement9 = driver.findElement(By.xpath("//*[.=\"Опубликовать\"]"));
+//        webElement9.click();
+        WebElement webElement9 = driver.findElement(By.xpath("//footer[@class=\"footer-0-2-264 root-0-2-339\"]"));
+                webElement9.click();
 
         // driver.quit();
     }

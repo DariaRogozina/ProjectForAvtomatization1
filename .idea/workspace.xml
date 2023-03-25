@@ -6,7 +6,30 @@
   <component name="ChangeListManager">
     <list default="true" id="94b85602-0b56-4669-beb3-3a48a9eacb70" name="Changes" comment="Initial commit">
       <changelist_data name="Дарья Приходько" email="prikhodkooooo@gmail.com" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MyTestPackage/AbstractPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MyTestPackage/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MyTestPackage/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MyTestPackage/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MyTestPackage/MyFriendsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson6/MyTestPackage/PostPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/MyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lesson7/MyWebDriverEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/lesson5/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/lesson5/LessonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/lesson5/MyTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/lesson6/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/lesson6/MyLifeJornalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson3/NewPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson3/NewPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/lesson4/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="XML Properties File" />
         <option value="Class" />
       </list>
     </option>
@@ -42,84 +66,107 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Constanta/IdeaProjects/ProjectForAvtomatization",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AddToFriend">
-    <configuration name="AddToFriend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.AddToFriend" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Constanta\IdeaProjects\ProjectForAvtomatization\src\test\java\org\example\lesson4" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.lesson4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyLifeJornalTest">
+    <configuration name="MyLifeJornalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectForAvtomatization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="org.example.lesson4.lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson4.lesson6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.lesson6.MyLifeJornalTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Authorization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.Authorization" />
+    <configuration name="MyLifeJornalTest.makeAComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectForAvtomatization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="org.example.lesson4.lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson4.lesson6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.lesson6.MyLifeJornalTest" />
+      <option name="METHOD_NAME" value="makeAComment" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeletePost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.DeletePost" />
+    <configuration name="MyLifeJornalTest.writeToBlogTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectForAvtomatization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="org.example.lesson4.lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson4.lesson6" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.lesson6.MyLifeJornalTest" />
+      <option name="METHOD_NAME" value="writeToBlogTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.ExampleMain" />
+    <configuration name="MyTestSuite.addToFriend" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectForAvtomatization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="org.example.lesson4.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson4.lesson5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.lesson5.MyTestSuite" />
+      <option name="METHOD_NAME" value="addToFriend" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewPost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson3.NewPost" />
+    <configuration name="MyTestSuite.makeAComment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProjectForAvtomatization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson3.*" />
+          <option name="PATTERN" value="org.example.lesson4.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.example.lesson4.lesson5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.lesson5.MyTestSuite" />
+      <option name="METHOD_NAME" value="makeAComment" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddToFriend" />
-        <item itemvalue="Application.DeletePost" />
-        <item itemvalue="Application.NewPost" />
-        <item itemvalue="Application.Authorization" />
-        <item itemvalue="Application.ExampleMain" />
+        <item itemvalue="JUnit.MyLifeJornalTest" />
+        <item itemvalue="JUnit.MyLifeJornalTest.writeToBlogTest" />
+        <item itemvalue="JUnit.MyLifeJornalTest.makeAComment" />
+        <item itemvalue="JUnit.MyTestSuite.makeAComment" />
+        <item itemvalue="JUnit.MyTestSuite.addToFriend" />
       </list>
     </recent_temporary>
   </component>
